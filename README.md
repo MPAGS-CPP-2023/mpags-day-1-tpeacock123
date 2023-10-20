@@ -6,3 +6,6 @@ A simple command line tool for encrypting/decrypting text using classical cipher
 
 ## how to download
 <h1>how to download<h1>
+
+## whats up 
+<h1> this is whats up <h1>
